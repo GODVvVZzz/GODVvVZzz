@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GODVvVZzz
 - 👀 研二在读
 - 🌱 I’m currently learning Java
-- 📫 
+- 📫 wwweiv@nuaa.edu.cn
 
 <!---
 GODVvVZzz/GODVvVZzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
