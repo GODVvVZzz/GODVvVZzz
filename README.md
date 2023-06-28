@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GODVvVZzz
 - 👀 研二在读
 - 🌱 I’m currently learning Java
-- 📫 wwweiv@nuaa.edu.cn
 
 ![snake](github-contribution-grid-snake.svg)
 =======
