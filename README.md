@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GODVvVZzz
-- 👀 研二在读
-- 🌱 I’m currently learning Java
+- 👀 秋招ing
+- 🌱 
 
 ![snake](github-contribution-grid-snake.svg)
 =======
