@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GODVvVZzz
-- 👀 秋招ing
+- 👀 working
 - 🌱 
 
 ![snake](github-contribution-grid-snake.svg)
